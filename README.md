@@ -1,8 +1,8 @@
 # _Calculator_
 
-#### _A calculator app, March 25,2019_
+#### _A calculator app, March 27,2019_
 
-#### By _**Katlin Anderson and Reese Lee**_
+#### By _**Katlin Anderson, Reese Lee, and Jaime Takikawa**_
 
 ## Description
 
@@ -22,4 +22,4 @@ _We used HTML and JavaScript to create this app._
 
 *MIT license.*
 
-Copyright (c) 2016 **_Katlin Anderson and Reese Lee_**
+Copyright (c) 2016 **_Katlin Anderson, Reese Lee Jaime Takikawa_**
