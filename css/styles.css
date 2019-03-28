@@ -1,0 +1,20 @@
+input[type=number] {
+  display:inline;
+  width: 20%;
+  border: 1px solid black;
+}
+
+.btn {
+  background-color: #AC92A6; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+body {
+  color: #AC92A6;
+}
